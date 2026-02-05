@@ -16,7 +16,7 @@
           {
             "description": "Year",
             "name": "Year",
-            "type": "year"
+            "type": "integer"
           },
           {
             "description": "Total carbon emissions from fossil fuel consumption and cement production (million metric tons of C)",
